@@ -1,1 +1,1 @@
-Git sample file changed 2
+Git sample file changed 2 changed with feature branch
